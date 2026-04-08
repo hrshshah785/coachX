@@ -79,24 +79,6 @@ Julie is friendly, motivational, and knowledgeable about fitness, nutrition, and
 
 ---
 
-## Screenshots
-
-<div align="center">
-
-| Dashboard | AI Trainer (Julie) | Pose Detection |
-|:---------:|:------------------:|:--------------:|
-| `[screenshot]` | `[screenshot]` | `[screenshot]` |
-
-| Workouts | Exercise Detail | Profile |
-|:--------:|:---------------:|:-------:|
-| `[screenshot]` | `[screenshot]` | `[screenshot]` |
-
-> Screenshots coming soon. Run the app and contribute yours — see [Contributing](#contributing).
-
-</div>
-
----
-
 ## Architecture
 
 ```
